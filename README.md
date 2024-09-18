@@ -17,3 +17,5 @@ Add Books: Users can add new books to the database.
 Backend: Python with Django framework
 Database: Default Django database (SQLite)
 Frontend: HTML & CSS , Bootstrap
+
+The project will be deployed on the host soon.
